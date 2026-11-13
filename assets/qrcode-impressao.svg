@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1414">
+<defs>
+<style>
+.title{font-family:Georgia,'Times New Roman',serif;font-weight:700}
+.sub{font-family:Georgia,'Times New Roman',serif;font-style:italic;font-weight:600;fill:#2f8f6b}
+.body{font-family:Helvetica,Arial,sans-serif;fill:#16303a}
+.muted{font-family:Helvetica,Arial,sans-serif;fill:#4d6670}
+</style>
+</defs>
+<rect width="1000" height="1414" fill="#ffffff"/>
+<rect width="1000" height="300" fill="#16405c"/>
+<circle cx="870" cy="90" r="130" fill="#1f5f8b" opacity="0.5"/>
+<circle cx="80" cy="230" r="90" fill="#2f8f6b" opacity="0.35"/>
+<text x="500" y="140" text-anchor="middle" class="title" font-size="64" fill="#f3f9f7">Vozes do</text>
+<text x="500" y="210" text-anchor="middle" class="title" font-size="64" fill="#f3f9f7">Colaboratório</text>
+<text x="500" y="260" text-anchor="middle" class="sub" font-size="30" fill="#b9e3d1">Relatos, Registros e Aprendizagens</text>
+
+<text x="500" y="400" text-anchor="middle" class="body" font-size="34" font-weight="700">Conheça o projeto</text>
+<text x="500" y="450" text-anchor="middle" class="muted" font-size="26">Aponte a câmera do celular para o código abaixo</text>
+
+<rect x="230" y="510" width="540" height="540" rx="24" fill="#ffffff" stroke="#d3e0e0" stroke-width="3"/>
+<image x="260" y="540" width="480" height="480" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAApQAAAKUAQMAAACAATp/AAAABlBMVEUAAAD///+l2Z/dAAAAAnRSTlP//8i138cAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAI9SURBVHic7dlBjusgDABQbpD737I3yNd0IDaQVPokXYz0vIgK2M/ZWaRlfz4Kk8lkMplMJpPJZP5Zs4yx/ey+6iL/eidvx+OsjMlkMpnMZfN3VSMvXzU3+gzwXMZkMplM5g0z5tTn+uHXVMZkMplM5oNm7FXhVW9fUzMmk8lkMr9snp8WJpPJZDK/ZkbUZfv8l4daOUbeZRmTyWQymcvmEN2g+/CYy5hMJpPJXDbPo33vy/Xbh/wWTCaTyWSume/0kOoyuPYY/o6aaplMJpPJfMB85cPhVjV0jBaRx2QymUzmA2bAOS0uXq0qxttFMJlMJpO5Zl7m5jtXqc2iT7wPk8lkMplPmR+QoTS4baplMplMJnPZzLProsWUd/E1kMlkMpnMZTOntfGWkX2o6vuUfMBkMplM5j0zz7M2wC77DJOtm4VMJpPJZK6aER0ylNZZuEd9f7ozmUwmk3nDzAVRVXLue5GHX5fSJTOZTCaTuWpG2tbXbyd75eg9vAWTyWQymffMLbZ+opVOe3OLfQomk8lkMm+YU9VQ3+DcsRwV6QWYTCaTyVwzzyJqMhenW87rK5lMJpPJXDLLGFtfNUyx+fYVyUwmk8lk3jDTVp9bzr7yTR2jD5PJZDKZ98wqzONtkoZvgK0tk8lkMpnfNKfTThquYEwmk8lkPmy+TpB0tcoHuQWTyWQymXfMiDzZuhZDcgbPZxyTyWQymf9lDtFJsRfLs97HKzGZTCaTuWQ+G0wmk8lkMplMJpP5F81/V55G+z+2CXgAAAAASUVORK5CYII="/>
+
+<text x="500" y="1115" text-anchor="middle" class="body" font-size="28" font-weight="700">andrevisc-1209.github.io/VOZES_COLABORATORIO</text>
+
+<line x1="150" y1="1180" x2="850" y2="1180" stroke="#d3e0e0" stroke-width="2"/>
+
+<text x="500" y="1240" text-anchor="middle" class="muted" font-size="24">Ginásios Educacionais Tecnológicos (GETs)</text>
+<text x="500" y="1280" text-anchor="middle" class="muted" font-size="24">Rede Municipal de Ensino do Rio de Janeiro — SME</text>
+<text x="500" y="1340" text-anchor="middle" class="sub" font-size="26">Uma ideia pode transformar uma experiência.</text>
+</svg>
